@@ -15,3 +15,5 @@ jacobo currás
 7) e. Ninguna de las respuestas es correcta.
 
 8) a. 255.0.0.0
+
+9) d. dirección = 172.18.64.0, broadcast 172.18.71.255
