@@ -12,3 +12,4 @@ jacobo currás
 
 6) b. 128 subredes con 510 hosts
 
+7) e. Ninguna de las respuestas es correcta.
